@@ -64,6 +64,7 @@ see file CNN.ipynb
    
 ## Result Analysis
 see file figure.ipynb
+And the training data can be found in result.zip
 
 ##  Acknowledgement
 Adapted from @Article{MaskedAutoencoders2021,
